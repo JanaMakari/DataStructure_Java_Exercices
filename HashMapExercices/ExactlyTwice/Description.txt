@@ -1,0 +1,2 @@
+Write a method called “exactlyTwice” that takes as parameter a single-dimensional sorted array of
+integers. This method should print on the screen the integers found exactly twice.
